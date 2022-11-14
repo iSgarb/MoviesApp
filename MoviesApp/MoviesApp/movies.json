@@ -1,0 +1,149 @@
+[
+	{
+	    "Title": "The Curse of La Llorona",
+	    "Year": "2019",
+	    "Rated": "R",
+	    "Released": "19 Apr 2019",
+	    "Runtime": "93 min",
+	    "Genre": "Horror, Mystery, Thriller",
+	    "Director": "Michael Chaves",
+	    "Writer": "Mikki Daughtry, Tobias Iaconis",
+	    "Actors": "Linda Cardellini, Raymond Cruz, Patricia Velasquez",
+	    "Plot": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
+	    "Language": "English, Spanish",
+	    "Country": "United States",
+	    "Awards": "1 win & 7 nominations",
+	    "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4NjU4ZDktOTg2Ny00MWI2LThiMTAtMGFkZGE1MWI5MzhjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_SX300.jpg",
+	    "Ratings": [
+	        {
+	            "Source": "Internet Movie Database",
+	            "Value": "5.2/10"
+	        },
+	        {
+	            "Source": "Rotten Tomatoes",
+	            "Value": "28%"
+	        },
+	        {
+	            "Source": "Metacritic",
+	            "Value": "41/100"
+	        }
+	    ],
+	    "Metascore": "41",
+	    "imdbRating": "5.2",
+	    "imdbVotes": "50,696",
+	    "imdbID": "tt4913966",
+	    "Type": "movie",
+	    "DVD": "16 Jul 2019",
+	    "BoxOffice": "$54,733,739",
+	    "Production": "N/A",
+	    "Website": "N/A",
+	    "Response": "True"
+	},
+	{
+	    "Title": "El Camino: A Breaking Bad Movie",
+	    "Year": "2019",
+	    "Rated": "TV-MA",
+	    "Released": "11 Oct 2019",
+	    "Runtime": "122 min",
+	    "Genre": "Action, Crime, Drama",
+	    "Director": "Vince Gilligan",
+	    "Writer": "Vince Gilligan",
+	    "Actors": "Aaron Paul, Jonathan Banks, Matt Jones",
+	    "Plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+	    "Language": "English, Spanish",
+	    "Country": "United States",
+	    "Awards": "Nominated for 4 Primetime Emmys. 4 wins & 24 nominations total",
+	    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg",
+	    "Ratings": [
+	        {
+	            "Source": "Internet Movie Database",
+	            "Value": "7.3/10"
+	        },
+	        {
+	            "Source": "Rotten Tomatoes",
+	            "Value": "92%"
+	        },
+	        {
+	            "Source": "Metacritic",
+	            "Value": "72/100"
+	        }
+	    ],
+	    "Metascore": "72",
+	    "imdbRating": "7.3",
+	    "imdbVotes": "247,578",
+	    "imdbID": "tt9243946",
+	    "Type": "movie",
+	    "DVD": "11 Oct 2019",
+	    "BoxOffice": "N/A",
+	    "Production": "N/A",
+	    "Website": "N/A",
+	    "Response": "True"
+	},
+	{
+	    "Title": "La Increíble Casualidad de las Cosas",
+	    "Year": "2022",
+	    "Rated": "N/A",
+	    "Released": "03 Apr 2022",
+	    "Runtime": "N/A",
+	    "Genre": "Short, Drama",
+	    "Director": "Daniela Rodriguez Garcia",
+	    "Writer": "Daniela Rodriguez Garcia",
+	    "Actors": "Pamela Oscos, Melissa Perea",
+	    "Plot": "N/A",
+	    "Language": "Spanish",
+	    "Country": "Mexico",
+	    "Awards": "N/A",
+	    "Poster": "https://m.media-amazon.com/images/M/MV5BNWY5NTEwZDgtNTM2NS00ODY3LWI2YzktZWRhOTRlMjFkZTFjXkEyXkFqcGdeQXVyMTE0NjEwNjg5._V1_SX300.jpg",
+	    "Ratings": [],
+	    "Metascore": "N/A",
+	    "imdbRating": "N/A",
+	    "imdbVotes": "N/A",
+	    "imdbID": "tt20235560",
+	    "Type": "movie",
+	    "DVD": "N/A",
+	    "BoxOffice": "N/A",
+	    "Production": "N/A",
+	    "Website": "N/A",
+	    "Response": "True"
+	},
+    {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "Rated": "R",
+        "Released": "31 Mar 1999",
+        "Runtime": "136 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Lana Wachowski, Lilly Wachowski",
+        "Writer": "Lilly Wachowski, Lana Wachowski",
+        "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+        "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "Language": "English",
+        "Country": "United States, Australia",
+        "Awards": "Won 4 Oscars. 42 wins & 51 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.7/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "88%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "73/100"
+            }
+        ],
+        "Metascore": "73",
+        "imdbRating": "8.7",
+        "imdbVotes": "1,895,851",
+        "imdbID": "tt0133093",
+        "Type": "movie",
+        "DVD": "15 May 2007",
+        "BoxOffice": "$172,076,928",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
